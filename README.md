@@ -22,3 +22,8 @@ The project aims to illustrate the process of containerizing the '2048' game usi
 - Configuration of fundamental parameters for the application deployment.
 - Leveraging Elastic Beanstalk for automated infrastructure provisioning.
 - Accessing the deployed application via the provided CNAME.
+
+<br>
+
+
+Game GitHub repository https://github.com/gabrielecirulli/2048
