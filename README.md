@@ -1,5 +1,5 @@
 # Project Overview:
-The project aims to illustrate the process of containerizing the '2048' game using Docker and subsequently deploying it on the AWS cloud infrastructure via Elastic Beanstalk. The primary objectives include demonstrating the Dockerization of an application, creation of a Docker image, local deployment, and ultimately, the cloud-based deployment of the containerized application using AWS services.
+The project aims to illustrate the process of containerizing the '2048' game using Docker and subsequently deploying it on the AWS cloud infrastructure via Elastic Beanstalk. The primary objectives include demonstrating the Dockerization of an application, the creation of a Docker image, local deployment, and ultimately, the cloud-based deployment of the containerized application using AWS services.
 
 ### Key Phases and Actions:
 
@@ -18,12 +18,13 @@ The project aims to illustrate the process of containerizing the '2048' game usi
 3) AWS Deployment via Elastic Beanstalk:
 - Access to the AWS Management Console.
 - Establishment of an Elastic Beanstalk environment designed for Docker application deployment.
-- Upload of the Dockerfile and associated artifacts to Elastic Beanstalk.
+- Upload the Dockerfile and associated artifacts to Elastic Beanstalk.
 - Configuration of fundamental parameters for the application deployment.
 - Leveraging Elastic Beanstalk for automated infrastructure provisioning.
 - Accessing the deployed application via the provided CNAME.
 
 <br>
-
+LinkedIn post: https://www.linkedin.com/posts/myselfmd_devops-github-docker-activity-7144974985298599936-njwg?utm_source=share&utm_medium=member_desktop
+<br>
 
 Game GitHub repository https://github.com/gabrielecirulli/2048
