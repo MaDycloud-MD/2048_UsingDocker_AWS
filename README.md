@@ -27,4 +27,6 @@ The project aims to illustrate the process of containerizing the '2048' game usi
 LinkedIn post: https://www.linkedin.com/posts/myselfmd_devops-github-docker-activity-7144974985298599936-njwg?utm_source=share&utm_medium=member_desktop
 <br>
 
+
+
 Game GitHub repository https://github.com/gabrielecirulli/2048
